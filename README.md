@@ -1,5 +1,7 @@
 ## Olá! eu sou Gabriel, programador fullstacks 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whit3Guy&theme=transparent&bg_color=001&border_color=31A9DC&show_icons=true&icon_color=3FA3DC&title_color=C2D5F&text_color=FFF)
+
 *Tecnologias que eu uso no meu dia a dia*
 
 
