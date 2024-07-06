@@ -1,4 +1,4 @@
-## Olá! eu sou Gabriel, programador fullstacks 👋
+## Olá! eu sou Gabriel, programador Full Stack 👋
 
 - Apaixonado em Tecnologia e exatas
 - Pronto para suprir a sua demanda
