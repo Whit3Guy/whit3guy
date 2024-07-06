@@ -1,4 +1,4 @@
-![image](https://github.com/Whit3Guy/whit3guy/assets/167573409/875bfc4b-49d7-4e65-be15-1a0cc4635c46)## Olá! eu sou Gabriel, programador Full Stack 👋
+## Olá! eu sou Gabriel, programador Full Stack 👋
 
 - Apaixonado em Tecnologia e exatas
 - Pronto para suprir a sua demanda
